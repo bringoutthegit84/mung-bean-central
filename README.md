@@ -1,2 +1,2 @@
 # mung-bean-central
-My first repository on GitHub
+This is a test repo and my first forary into the world of git.
